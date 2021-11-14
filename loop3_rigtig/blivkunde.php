@@ -1,5 +1,6 @@
 <?php 
 require_once('includes/header.php');
+require_once('conn.php');
 
 //print_r($_POST);
 
